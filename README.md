@@ -4,4 +4,4 @@ This project compares basic forms of selection and merge sort and compares their
 Below is the graph that shows where the crossover point is using the average runtime for each different size of array, from size 3 to 199.
 ![Comparison](https://github.com/jk1834/SortComparisons/blob/main/comparison.JPG)
 
-For more details, refer to the SortComparisonReport.pdf
+For a full report, refer to the SortComparisonReport.pdf
